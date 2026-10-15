@@ -1,0 +1,378 @@
+Crop Name,Variety (if known),Seed Source,Current Storage Bin,New Storage Bin,Planting season,Days to Maturity,Planting Method (Direct/Transplant),"Notes (e.g., heirloom, dwarf, climbing, etc.)",Category,Sun Requirements,Planting Method (Enriched),Days to Maturity (Enriched),Spacing (inches),Seed Depth (inches),Heirloom/Hybrid,Season Type,Raleigh Spring Planting,Raleigh Fall Planting,Match Confidence
+Alfalfa,,Nature Jim's,Microgreens,,,,,,Microgreen,Full Sun,Direct,7-14,1,0.25,Unknown,Cool,Mar 1 - May 1,Sep 1 - Oct 15,High
+Salad Mix,"alfalfa, radish, broccoli, clover",Nature Jim's,Microgreens,,,,,,Microgreen,Full Sun,Direct,7-21,1,0.25,Unknown,Cool,Mar 1 - May 1,Sep 1 - Oct 15,High
+Garbanzo Bean,,Park Seed,Beans,,,,,,Bean,Full Sun,Direct,100,6,1,Heirloom,Cool,Mar 15 - Apr 15,N/A,High
+Midori Star Soybean Edamame,,Park Seed,Beans,,,,,,Bean,Full Sun,Direct,75,6,1,Hybrid,Warm,Apr 15 - Jun 15,N/A,High
+Calypso bean,,Lehman's,Beans,,,,,,Bean,Full Sun,Direct,85,6,1,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Pinto bean,,Lehman's,Beans,,,,,,Bean,Full Sun,Direct,90,6,1,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Blue Lake Bush Bean,,Lehman's,Beans,,,,,,Bean,Full Sun,Direct,55,6,1,Heirloom,Warm,Apr 15 - Jun 15,Jul 15 - Aug 15,High
+Chiba Green Soya Bean,,Baker Creek,Beans,,,,,,Bean,Full Sun,Direct,75,6,1,Heirloom,Warm,Apr 15 - Jun 15,N/A,High
+Black Turtle Bean,,Baker Creek,Beans,,,,,,Bean,Full Sun,Direct,85,6,1,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Kabouli Black Garbanzo Bean,,Baker Creek,Beans,,,,,,Bean,Full Sun,Direct,100,6,1,Heirloom,Cool,Mar 15 - Apr 15,N/A,High
+Kentucky Wonder Pole Bean,,Lehman's,Beans,,,,,,Bean,Full Sun,Direct,65,6,1,Heirloom,Warm,Apr 15 - Jun 15,Jul 1 - Aug 1,High
+Tankuro Edamame Soya Bean,,Baker Creek,Beans,,,,,,Bean,Full Sun,Direct,78,6,1,Heirloom,Warm,Apr 15 - Jun 15,N/A,High
+Alabama Blackeyed Butterbean,,Baker Creek,Beans,,,,,,Bean,Full Sun,Direct,75,6,1,Heirloom,Warm,Apr 15 - Jun 15,N/A,High
+Mennonite Sorghum,,Baker Creek,Grains,,,,,,Corn,Full Sun,Direct,100,12,0.5,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Rose Red Soba Buckwheat,,Baker Creek,Grains,,,,,,Grain,Full Sun,Direct,70,6,1,Heirloom,Warm,Apr 15 - Jun 15,Aug 1 - Sep 1,High
+Honey Drip Sorghum,,Baker Creek,Grains,,,,,,Corn,Full Sun,Direct,120,12,0.5,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Red Fife Wheat,,Baker Creek,Grains,,,,,,Grain,Full Sun,Direct,90,6,1,Heirloom,Cool,Feb 15 - Mar 31,Sep 15 - Oct 15,High
+Black Hulless Barley,,Baker Creek,Grains,,,,,,Grain,Full Sun,Direct,90,6,1.5,Heirloom,Cool,Feb 15 - Mar 31,Sep 1 - Oct 1,High
+White Buckwheat,,Baker Creek,Grains,,,,,,Grain,Full Sun,Direct,70,6,1,Heirloom,Warm,Apr 15 - Jun 15,Aug 1 - Sep 1,High
+California Poppy,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Flower,Full Sun,Direct,90,8,0.125,Heirloom,Annual,Feb 15 - Apr 15,Sep 1 - Nov 1,High
+Flanders Poppy,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Flower,Full Sun,Direct,90,8,0.125,Heirloom,Annual,Feb 15 - Apr 15,Sep 1 - Nov 1,High
+Giant pod Poppy,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Flower,Full Sun,Direct,90,8,0.125,Heirloom,Annual,Feb 15 - Apr 15,Sep 1 - Nov 1,High
+Turkish Red Poppy,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Flower,Full Sun,Direct,90,8,0.125,Heirloom,Annual,Feb 15 - Apr 15,Sep 1 - Nov 1,High
+Zahir Poppy,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Flower,Full Sun,Direct,90,8,0.125,Heirloom,Annual,Feb 15 - Apr 15,Sep 1 - Nov 1,High
+Azteca Tobacco,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Tobacco,Full Sun,Transplant,90,24,0.125,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Hopi Tobacco,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Tobacco,Full Sun,Transplant,90,24,0.125,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Huichol Tobacco,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Tobacco,Full Sun,Transplant,90,24,0.125,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Oneida Tobacco,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Tobacco,Full Sun,Transplant,90,24,0.125,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Rapa Nui Tobacco,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Tobacco,Full Sun,Transplant,90,24,0.125,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Tree Tobacco,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Tobacco,Full Sun,Transplant,120,36,0.125,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Scherazi Tobacco,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Tobacco,Full Sun,Transplant,90,24,0.125,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Smoking Tobacco,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Tobacco,Full Sun,Transplant,90,24,0.125,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Walker's Tobacco,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Tobacco,Full Sun,Transplant,90,24,0.125,Heirloom,Warm,Apr 15 - May 31,N/A,High
+West Indies Tobacco,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Tobacco,Full Sun,Transplant,90,24,0.125,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Clary sage,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Med Herb,Full Sun,Direct,90,18,0.25,Heirloom,Biennial,Mar 1 - May 1,N/A,High
+Dan-shen miltiorrhiza sage,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Med Herb,Full Sun,Transplant,150,18,0.25,Heirloom,Perennial,Apr 1 - May 15,N/A,High
+Garden sage,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Herb,Full Sun,Transplant,75,18,0.25,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Pannonian sage,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Med Herb,Full Sun,Direct,90,18,0.125,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Purple sage,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Med Herb,Full Sun,Transplant,90,18,0.125,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Scarlet sage,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Med Herb,Full Sun,Transplant,90,18,0.125,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+White sage,,Strictly Medicinal,Tobacco Poppy Sage,,,,,,Med Herb,Full Sun,Transplant,90,24,0.125,Heirloom,Perennial,Apr 1 - May 15,N/A,High
+Ashwagandha,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Transplant,150,24,0.25,Heirloom,Annual,Apr 15 - May 31,N/A,High
+Borage,,Strictly Medicinal,Med Herbs 1,,,,,,Herb,Full Sun,Direct,55,12,0.5,Heirloom,Annual,Mar 15 - May 1,Aug 15 - Oct 1,High
+Cilantro,,Strictly Medicinal,Med Herbs 1,,,,,,Herb,Part Shade,Direct,45,6,0.25,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Evening Primrose,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,365,18,0.125,Heirloom,Biennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Genovese Basil,,Strictly Medicinal,Med Herbs 1,,,,,,Herb,Full Sun,Direct,25,10,0.25,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Broadleaf Plantain,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,90,8,0.125,Heirloom,Perennial,Mar 1 - May 1,Aug 15 - Oct 1,High
+English Broadleaf Thyme,,Strictly Medicinal,Med Herbs 1,,,,,,Herb,Full Sun,Transplant,85,12,0.125,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Garden sage,,Strictly Medicinal,Med Herbs 1,,,,,,Herb,Full Sun,Transplant,75,18,0.25,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Gobo Burdock,,Strictly Medicinal,Med Herbs 1,,,,,,Root Veg,Full Sun,Direct,120,6,0.5,Heirloom,Cool,Mar 1 - Apr 30,Aug 1 - Sep 1,High
+Greek Oregano,,Strictly Medicinal,Med Herbs 1,,,,,,Herb,Full Sun,Direct,80,12,0.125,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Lemon Balm,,Strictly Medicinal,Med Herbs 1,,,,,,Herb,Part Shade,Transplant,75,18,0.125,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Heartsease Violet,,Strictly Medicinal,Med Herbs 1,,,,,,Flower,Part Shade,Direct,90,8,0.125,Heirloom,Annual,Feb 15 - Apr 15,Aug 15 - Oct 1,High
+Motherwort,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Part Shade,Direct,180,18,0.125,Heirloom,Perennial,Mar 1 - Apr 30,Sep 1 - Oct 1,High
+Summer Savory,,Strictly Medicinal,Med Herbs 1,,,,,,Herb,Full Sun,Direct,60,8,0.125,Heirloom,Annual,Apr 1 - May 15,N/A,High
+Stinging Nettles,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Part Shade,Direct,180,12,0.125,Heirloom,Perennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Wild Dandelion,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,90,8,0.125,Heirloom,Perennial,Mar 1 - May 1,Aug 15 - Oct 1,High
+Absinthe Wormwood,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,120,18,0.125,Heirloom,Perennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Baical Skullcap,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Part Shade,Transplant,180,12,0.125,Heirloom,Perennial,Mar 15 - May 1,N/A,High
+Blue Vervain,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,365,18,0.125,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Codonopsis,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Part Shade,Direct,180,12,0.25,Heirloom,Perennial,Mar 15 - May 1,N/A,High
+Dark Blue Cornflower,,Strictly Medicinal,Med Herbs 1,,,,,,Flower,Full Sun,Direct,70,12,0.25,Heirloom,Annual,Feb 15 - Apr 30,Sep 1 - Oct 1,High
+Greek Basil,,Strictly Medicinal,Med Herbs 1,,,,,,Herb,Full Sun,Direct,30,8,0.25,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Lady's Mantle,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Part Shade,Direct,90,12,0.125,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Meadow Arnica,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,365,18,0.125,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Meadowsweet,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Part Shade,Direct,365,24,0.125,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Passionflower,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Transplant,365,36,0.25,Heirloom,Perennial,Apr 1 - May 15,N/A,High
+Red Clover,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,60,6,0.25,Heirloom,Perennial,Mar 1 - May 1,Aug 15 - Oct 1,High
+Roman Chamomile,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,60,6,0.125,Heirloom,Perennial,Mar 1 - May 1,Sep 1 - Oct 15,High
+Skullcap,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Part Shade,Transplant,180,12,0.125,Heirloom,Perennial,Mar 15 - May 1,N/A,High
+Spike Amaranth,,Strictly Medicinal,Med Herbs 1,,,,,,Flower,Full Sun,Direct,75,12,0.25,Heirloom,Annual,Apr 1 - May 31,N/A,High
+Spilanthes,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Transplant,60,12,0.125,Heirloom,Annual,Apr 15 - Jun 1,N/A,High
+Wild Lettuce,,Strictly Medicinal,Med Herbs 1,,,,,,Green,Part Shade,Direct,60,12,0.125,Heirloom,Cool,Mar 1 - Apr 30,Aug 15 - Oct 1,High
+Astragalus,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,180,12,0.5,Heirloom,Perennial,Mar 15 - May 1,N/A,High
+Orange Calendula,,Strictly Medicinal,Med Herbs 1,,,,,,Flower,Full Sun,Direct,50,12,0.25,Heirloom,Annual,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+German Chamomile,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,60,6,0.125,Heirloom,Annual,Mar 1 - May 1,Sep 1 - Oct 15,High
+True Comfrey,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Part Shade,Direct,365,24,0.5,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Narrow-Leaved Coneflower,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,730,18,0.25,Heirloom,Perennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Purple Coneflower,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,730,18,0.25,Heirloom,Perennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Elecampane,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,365,24,0.25,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Feverfew,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,90,12,0.125,Heirloom,Perennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Hyssop,,Strictly Medicinal,Med Herbs 1,,,,,,Herb,Full Sun,Direct,90,12,0.25,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+English Lavender,,Strictly Medicinal,Med Herbs 1,,,,,,Herb,Full Sun,Transplant,90,24,0.125,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Marshmallow,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,365,24,0.25,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Sacred White Sage,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Transplant,90,24,0.125,Heirloom,Perennial,Apr 1 - May 15,N/A,High
+Self-Heal,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Part Shade,Direct,90,12,0.125,Heirloom,Perennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Holy Basil,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Transplant,65,18,0.25,Heirloom,Annual,Apr 15 - Jun 1,N/A,High
+Valerian,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Part Shade,Transplant,365,18,0.125,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Yarrow,,Strictly Medicinal,Med Herbs 1,,,,,,Med Herb,Full Sun,Direct,120,18,0.125,Heirloom,Perennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Anise Hyssop,,Lehman's,Med Herbs 2,,,,,,Herb,Full Sun,Direct,85,18,0.125,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Burdock,,Lehman's,Med Herbs 2,,,,,,Root Veg,Full Sun,Direct,120,6,0.5,Heirloom,Cool,Mar 1 - Apr 30,Aug 1 - Sep 1,High
+German Chamomile,,Lehman's,Med Herbs 2,,,,,,Med Herb,Full Sun,Direct,60,6,0.125,Heirloom,Annual,Mar 1 - May 1,Sep 1 - Oct 15,High
+Echinacea Angustifolia,,Lehman's,Med Herbs 2,,,,,,Med Herb,Full Sun,Direct,730,18,0.25,Heirloom,Perennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Feverfew,,Lehman's,Med Herbs 2,,,,,,Med Herb,Full Sun,Direct,90,12,0.125,Heirloom,Perennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Munstead Lavender,,Lehman's,Med Herbs 2,,,,,,Herb,Full Sun,Transplant,90,24,0.125,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Blue Cardinal Flower,,Lehman's,Med Herbs 2,,,,,,Flower,Part Shade,Transplant,90,12,0.125,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+St. John's Wort,,Lehman's,Med Herbs 2,,,,,,Med Herb,Full Sun,Direct,365,18,0.125,Heirloom,Perennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Baical Skullcap,,Survival Garden,Med Herbs 2,,,,,,Med Herb,Part Shade,Transplant,180,12,0.125,Heirloom,Perennial,Mar 15 - May 1,N/A,High
+Burdock,,Survival Garden,Med Herbs 2,,,,,,Root Veg,Full Sun,Direct,120,6,0.5,Heirloom,Cool,Mar 1 - Apr 30,Aug 1 - Sep 1,High
+Comfrey,,Survival Garden,Med Herbs 2,,,,,,Med Herb,Part Shade,Direct,365,24,0.5,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Hyssop,,Survival Garden,Med Herbs 2,,,,,,Herb,Full Sun,Direct,90,12,0.25,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Lavender,,Survival Garden,Med Herbs 2,,,,,,Herb,Full Sun,Transplant,90,24,0.125,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Mugwort,,Survival Garden,Med Herbs 2,,,,,,Med Herb,Full Sun,Direct,120,18,0.125,Heirloom,Perennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Mullein,,Survival Garden,Med Herbs 2,,,,,,Med Herb,Full Sun,Direct,365,24,0.125,Heirloom,Biennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Peppermint,,Survival Garden,Med Herbs 2,,,,,,Herb,Part Shade,Transplant,90,18,0.25,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+St. John's Wort,,Survival Garden,Med Herbs 2,,,,,,Med Herb,Full Sun,Direct,365,18,0.125,Heirloom,Perennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Wormwood,,Survival Garden,Med Herbs 2,,,,,,Med Herb,Full Sun,Direct,120,18,0.125,Heirloom,Perennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Self-Heal,,Survival Garden,Med Herbs 2,,,,,,Med Herb,Part Shade,Direct,90,12,0.125,Heirloom,Perennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Valerian,,Survival Garden,Med Herbs 2,,,,,,Med Herb,Part Shade,Transplant,365,18,0.125,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Victoria Blue Sage,,Survival Garden,Med Herbs 2,,,,,,Med Herb,Full Sun,Transplant,90,18,0.125,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+White Sage,,Survival Garden,Med Herbs 2,,,,,,Med Herb,Full Sun,Transplant,90,24,0.125,Heirloom,Perennial,Apr 1 - May 15,N/A,High
+Bonsai basil,,Park Seed,Herbs A-L,,,,,,Herb,Full Sun,Direct,30,8,0.25,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Dark Opal basil,,Garden Pack,Herbs A-L,,,,,,Herb,Full Sun,Direct,30,10,0.25,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Sweet Large Leaf basil,,Lehman's,Herbs A-L,,,,,,Herb,Full Sun,Direct,25,10,0.25,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Basil,,Garden Pack,Herbs A-L,,,,,,Herb,Full Sun,Direct,25,10,0.25,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Cinnamon basil,,Baker Creek,Herbs A-L,,,,,,Herb,Full Sun,Direct,30,10,0.25,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Genovese basil,,Survival Garden,Herbs A-L,,,,,,Herb,Full Sun,Direct,25,10,0.25,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Red Ball Averto Chicory,,Garden Pack,Herbs A-L,,,,,,Green,Part Shade,Direct,60,8,0.25,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Medium Leaf chives,,Garden Pack,Herbs A-L,,,,,,Herb,Full Sun,Direct,60,6,0.25,Heirloom,Cool,Mar 1 - Apr 30,Aug 15 - Sep 30,High
+Onion chives,,Lehman's,Herbs A-L,,,,,,Herb,Full Sun,Direct,60,6,0.25,Heirloom,Cool,Mar 1 - Apr 30,Aug 15 - Sep 30,High
+Chives,,Survival Garden,Herbs A-L,,,,,,Herb,Full Sun,Direct,60,6,0.25,Heirloom,Cool,Mar 1 - Apr 30,Aug 15 - Sep 30,High
+Chinese chives,,Baker Creek,Herbs A-L,,,,,,Herb,Full Sun,Direct,60,6,0.25,Heirloom,Cool,Mar 1 - Apr 30,Aug 15 - Sep 30,High
+Cilantro,,Lehman's,Herbs A-L,,,,,,Herb,Part Shade,Direct,45,6,0.25,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Cilantro,,Garden Pack,Herbs A-L,,,,,,Herb,Part Shade,Direct,45,6,0.25,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Cilantro,,Survival Garden,Herbs A-L,,,,,,Herb,Part Shade,Direct,45,6,0.25,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Bouquet Dill,,Lehman's,Herbs A-L,,,,,,Herb,Full Sun,Direct,40,8,0.25,Heirloom,Cool,Mar 1 - May 1,Aug 1 - Sep 15,High
+Mammmut Dill,,Garden Pack,Herbs A-L,,,,,,Herb,Full Sun,Direct,40,8,0.25,Heirloom,Cool,Mar 1 - May 1,Aug 1 - Sep 15,High
+Rubra Fennel,,Lehman's,Herbs A-L,,,,,,Herb,Full Sun,Direct,80,12,0.25,Heirloom,Cool,Mar 1 - Apr 30,Aug 1 - Sep 15,High
+Romanesco Fennel,,Garden Pack,Herbs A-L,,,,,,Herb,Full Sun,Direct,80,12,0.25,Heirloom,Cool,Mar 1 - Apr 30,Aug 1 - Sep 15,High
+Lemon Balm,,Lehman's,Herbs A-L,,,,,,Herb,Part Shade,Transplant,75,18,0.125,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Lemon Balm,,Garden Pack,Herbs A-L,,,,,,Herb,Part Shade,Transplant,75,18,0.125,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Marjoram,,Lehman's,Herbs M-Z,,,,,,Herb,Full Sun,Direct,80,12,0.125,Heirloom,Annual,Mar 15 - May 1,N/A,High
+Marjoram,,Garden Pack,Herbs M-Z,,,,,,Herb,Full Sun,Direct,80,12,0.125,Heirloom,Annual,Mar 15 - May 1,N/A,High
+Marjoram,,Survival Garden,Herbs M-Z,,,,,,Herb,Full Sun,Direct,80,12,0.125,Heirloom,Annual,Mar 15 - May 1,N/A,High
+Southern Giant Curled Mustard,,Lehman's,Herbs M-Z,,,,,,Green,Full Sun,Direct,45,6,0.25,Heirloom,Cool,Feb 15 - Apr 15,Aug 15 - Oct 1,High
+Oregano,,Garden Pack,Herbs M-Z,,,,,,Herb,Full Sun,Direct,80,12,0.125,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Greek Oregano,,Lehman's,Herbs M-Z,,,,,,Herb,Full Sun,Direct,80,12,0.125,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Oregano,,Survival Garden,Herbs M-Z,,,,,,Herb,Full Sun,Direct,80,12,0.125,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Gigante d'italia Parsley,,Garden Pack,Herbs M-Z,,,,,,Herb,Part Shade,Direct,70,8,0.25,Heirloom,Biennial,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Moss curled Parsley,,Lehman's,Herbs M-Z,,,,,,Herb,Part Shade,Direct,70,8,0.25,Heirloom,Biennial,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Curled Parsley,,Survival Garden,Herbs M-Z,,,,,,Herb,Part Shade,Direct,70,8,0.25,Heirloom,Biennial,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Peppermint,,Lehman's,Herbs M-Z,,,,,,Herb,Part Shade,Transplant,90,18,0.25,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Sage,,Garden Pack,Herbs M-Z,,,,,,Herb,Full Sun,Transplant,75,18,0.25,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Sage,,Survival Garden,Herbs M-Z,,,,,,Herb,Full Sun,Transplant,75,18,0.25,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Sage,,Lehman's,Herbs M-Z,,,,,,Herb,Full Sun,Transplant,75,18,0.25,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Stevia,,Park Seed,Herbs M-Z,,,,,,Herb,Full Sun,Transplant,90,18,0.125,Heirloom,Perennial,Apr 15 - May 31,N/A,High
+Thyme,,Lehman's,Herbs M-Z,,,,,,Herb,Full Sun,Transplant,85,12,0.125,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Thyme,,Garden Pack,Herbs M-Z,,,,,,Herb,Full Sun,Transplant,85,12,0.125,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Thyme,,Survival Garden,Herbs M-Z,,,,,,Herb,Full Sun,Transplant,85,12,0.125,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Pineapple Tomato,,Lehman's,Tomatoes,,,,,,Tomato,Full Sun,Transplant,85,36,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Mortgage Lifter Tomato,,Lehman's,Tomatoes,,,,,,Tomato,Full Sun,Transplant,80,36,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Kellogg's Breakfast Tomato,,Lehman's,Tomatoes,,,,,,Tomato,Full Sun,Transplant,85,36,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Brandywine Red Tomato,,Lehman's,Tomatoes,,,,,,Tomato,Full Sun,Transplant,80,36,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Old German Tomato,,Lehman's,Tomatoes,,,,,,Tomato,Full Sun,Transplant,85,36,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Amish Paste Tomato,,Lehman's,Tomatoes,,,,,,Tomato,Full Sun,Transplant,85,36,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Cherokee Purple Tomato,,Lehman's,Tomatoes,,,,,,Tomato,Full Sun,Transplant,80,36,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Sweet Apertif Tomato,,Lehman's,Tomatoes,,,,,,Tomato,Full Sun,Transplant,60,24,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Great White Tomato,,Lehman's,Tomatoes,,,,,,Tomato,Full Sun,Transplant,85,36,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Red Robin Tomato,,Park Seed,Tomatoes,,,,,,Tomato,Full Sun,Transplant,65,12,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Patio Choice Tomato,,Park Seed,Tomatoes,,,,,,Tomato,Full Sun,Transplant,65,18,0.25,Hybrid,Warm,Apr 15 - May 31,N/A,High
+ACE 55 VF Tomato,,Garden Pack,Tomatoes,,,,,,Tomato,Full Sun,Transplant,75,36,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Roma VF Tomato,,Garden Pack,Tomatoes,,,,,,Tomato,Full Sun,Transplant,75,36,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Marmande Tomato,,Garden Pack,Tomatoes,,,,,,Tomato,Full Sun,Transplant,65,36,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Cherokee Purple Tomato,,Survival Garden,Tomatoes,,,,,,Tomato,Full Sun,Transplant,80,36,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Aunt Molly Ground Cherry,,Park Seed,Tomatoes,,,,,,Veggie,Full Sun,Transplant,75,24,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Golden Delight Zucchini,,Garden Pack,Squash,,,,,,Squash,Full Sun,Direct,50,36,1,Hybrid,Warm,Apr 15 - Jun 1,Jul 1 - Aug 1,High
+Squash,,Baker Creek,Squash,,,,,,Squash,Full Sun,Direct,50,36,1,Heirloom,Warm,Apr 15 - Jun 1,Jul 1 - Aug 1,High
+Squash,,Baker Creek,Squash,,,,,,Squash,Full Sun,Direct,50,36,1,Heirloom,Warm,Apr 15 - Jun 1,Jul 1 - Aug 1,High
+Squash,,Lehman's,Squash,,,,,,Squash,Full Sun,Direct,50,36,1,Heirloom,Warm,Apr 15 - Jun 1,Jul 1 - Aug 1,High
+Squash,,Lehman's,Squash,,,,,,Squash,Full Sun,Direct,50,36,1,Heirloom,Warm,Apr 15 - Jun 1,Jul 1 - Aug 1,High
+Squash,,Lehman's,Squash,,,,,,Squash,Full Sun,Direct,50,36,1,Heirloom,Warm,Apr 15 - Jun 1,Jul 1 - Aug 1,High
+Squash,,Lehman's,Squash,,,,,,Squash,Full Sun,Direct,50,36,1,Heirloom,Warm,Apr 15 - Jun 1,Jul 1 - Aug 1,High
+Squash,,Lehman's,Squash,,,,,,Squash,Full Sun,Direct,50,36,1,Heirloom,Warm,Apr 15 - Jun 1,Jul 1 - Aug 1,High
+Squash,,Park Seed,Squash,,,,,,Squash,Full Sun,Direct,50,36,1,Heirloom,Warm,Apr 15 - Jun 1,Jul 1 - Aug 1,High
+Maxidor French Bean,,Garden Pack,Green Beans & Peas,,,,,,Bean,Full Sun,Direct,54,6,1,Heirloom,Warm,Apr 15 - Jun 15,Jul 15 - Aug 15,High
+Contender French Bean,,Garden Pack,Green Beans & Peas,,,,,,Bean,Full Sun,Direct,50,6,1,Heirloom,Warm,Apr 15 - Jun 15,Jul 15 - Aug 15,High
+Dual Pea,,Lehman's,Green Beans & Peas,,,,,,Pea,Full Sun,Direct,60,3,1,Heirloom,Cool,Feb 1 - Mar 31,Aug 15 - Sep 15,High
+Cascadia Pea,,Lehman's,Green Beans & Peas,,,,,,Pea,Full Sun,Direct,60,3,1,Heirloom,Cool,Feb 1 - Mar 31,Aug 15 - Sep 15,High
+Early Onward Pea,,Garden Pack,Green Beans & Peas,,,,,,Pea,Full Sun,Direct,60,3,1,Heirloom,Cool,Feb 1 - Mar 31,Aug 15 - Sep 15,High
+Contender Beans,,Survival Garden,Green Beans & Peas,,,,,,Bean,Full Sun,Direct,50,6,1,Heirloom,Warm,Apr 15 - Jun 15,Jul 15 - Aug 15,High
+Detroit Red Beet,,Lehman's,Veggies: B,,,,,,Root Veg,Full Sun,Direct,58,4,0.5,Heirloom,Cool,Feb 15 - Apr 30,Aug 1 - Sep 15,High
+Bull's Blood Beet,,Lehman's,Veggies: B,,,,,,Root Veg,Full Sun,Direct,58,4,0.5,Heirloom,Cool,Feb 15 - Apr 30,Aug 1 - Sep 15,High
+Cylindra Beet,,Garden Pack,Veggies: B,,,,,,Root Veg,Full Sun,Direct,60,4,0.5,Heirloom,Cool,Feb 15 - Apr 30,Aug 1 - Sep 15,High
+Bordo Beet,,Garden Pack,Veggies: B,,,,,,Root Veg,Full Sun,Direct,58,4,0.5,Heirloom,Cool,Feb 15 - Apr 30,Aug 1 - Sep 15,High
+Waltham 29 Broccoli,,Lehman's,Veggies: B,,,,,,Brassica,Full Sun,Transplant,74,18,0.5,Heirloom,Cool,Feb 15 - Mar 31,Aug 1 - Sep 1,High
+Green Sprouting Broccoli,,Lehman's,Veggies: B,,,,,,Brassica,Full Sun,Transplant,60,18,0.5,Heirloom,Cool,Feb 15 - Mar 31,Aug 1 - Sep 1,High
+Asparabroc hybrid Broccoli,,Park Seed,Veggies: B,,,,,,Brassica,Full Sun,Transplant,55,18,0.5,Hybrid,Cool,Feb 15 - Mar 31,Aug 1 - Sep 1,High
+Ramoso Calabrese Broccoli,,Garden Pack,Veggies: B,,,,,,Brassica,Full Sun,Transplant,70,18,0.5,Heirloom,Cool,Feb 15 - Mar 31,Aug 1 - Sep 1,High
+Natalina Di Fasano Cima Grande Broccoli Rabe,,Baker Creek,Veggies: B,,,,,,Brassica,Full Sun,Direct,40,6,0.25,Heirloom,Cool,Feb 15 - Apr 15,Aug 15 - Oct 1,High
+Yod Fah,,Baker Creek,Veggies: B,,,,,,Brassica,Full Sun,Direct,45,6,0.25,Heirloom,Cool,Feb 15 - Apr 15,Aug 15 - Oct 1,High
+Rapini,,Baker Creek,Veggies: B,,,,,,Brassica,Full Sun,Direct,40,6,0.25,Heirloom,Cool,Feb 15 - Apr 15,Aug 15 - Oct 1,High
+Long Island Brussel Sprouts,,Garden Pack,Veggies: B,,,,,,Brassica,Full Sun,Transplant,90,24,0.5,Heirloom,Cool,N/A,Jul 1 - Aug 1,High
+Long Island Improved Brussel Sprouts,,Lehman's,Veggies: B,,,,,,Brassica,Full Sun,Transplant,90,24,0.5,Heirloom,Cool,N/A,Jul 1 - Aug 1,High
+605 Summer Mizuna,,Baker Creek,Greens,,,,,,Green,Part Shade,Direct,40,4,0.25,Heirloom,Cool,Feb 1 - Apr 15,Aug 15 - Oct 15,High
+Chinese Yellow Heart Winter Choy,,Baker Creek,Greens,,,,,,Brassica,Part Shade,Direct,45,6,0.25,Heirloom,Cool,Feb 15 - Apr 15,Aug 15 - Oct 1,High
+Shanghai Green Choy,,Baker Creek,Greens,,,,,,Brassica,Part Shade,Direct,45,6,0.25,Heirloom,Cool,Feb 15 - Apr 15,Aug 15 - Oct 1,High
+Late Flat Dutch Cabbage,,Lehman's,Greens,,,,,,Brassica,Full Sun,Transplant,100,24,0.5,Heirloom,Cool,Feb 15 - Mar 15,Jul 15 - Aug 15,High
+Michihili Chinese Cabbage,,Lehman's,Greens,,,,,,Brassica,Full Sun,Transplant,70,12,0.5,Heirloom,Cool,Feb 15 - Mar 31,Aug 1 - Sep 1,High
+Copenhagen Market Cabbage,,Lehman's,Greens,,,,,,Brassica,Full Sun,Transplant,65,18,0.5,Heirloom,Cool,Feb 15 - Mar 31,Aug 1 - Sep 1,High
+Pak Choi,,Lehman's,Greens,,,,,,Brassica,Part Shade,Direct,45,6,0.25,Heirloom,Cool,Feb 15 - Apr 15,Aug 15 - Oct 1,High
+Arugula,,Lehman's,Greens,,,,,,Green,Part Shade,Direct,40,4,0.25,Heirloom,Cool,Feb 1 - Apr 15,Aug 15 - Oct 15,High
+Lacinato Kale,,Lehman's,Greens,,,,,,Green,Full Sun,Transplant,62,18,0.5,Heirloom,Cool,Feb 15 - Mar 31,Aug 1 - Sep 15,High
+Blue Vates Kale,,Lehman's,Greens,,,,,,Green,Full Sun,Transplant,55,18,0.5,Heirloom,Cool,Feb 15 - Mar 31,Aug 1 - Sep 15,High
+Dwarf Siberian Kale,,Survival Garden,Greens,,,,,,Green,Full Sun,Transplant,50,18,0.5,Heirloom,Cool,Feb 15 - Mar 31,Aug 1 - Sep 15,High
+Red Russian Kale,,Survival Garden,Greens,,,,,,Green,Full Sun,Transplant,50,18,0.5,Heirloom,Cool,Feb 15 - Mar 31,Aug 1 - Sep 15,High
+Purple Vienna Kohlrabi,,Lehman's,Greens,,,,,,Brassica,Full Sun,Direct,55,6,0.5,Heirloom,Cool,Feb 15 - Apr 15,Aug 1 - Sep 15,High
+Lollo Rossa Lettuce,,Garden Pack,Greens,,,,,,Green,Part Shade,Direct,55,8,0.125,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Iceberg Lettuce,,Garden Pack,Greens,,,,,,Green,Part Shade,Direct,80,8,0.125,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Freckles Lettuce,,Lehman's,Greens,,,,,,Green,Part Shade,Direct,60,8,0.125,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Green Ice Lettuce,,Lehman's,Greens,,,,,,Green,Part Shade,Direct,45,8,0.125,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Red Sails Lettuce,,Lehman's,Greens,,,,,,Green,Part Shade,Direct,45,8,0.125,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Buttercrunch Lettuce,,Lehman's,Greens,,,,,,Green,Part Shade,Direct,55,8,0.125,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Buttercrunch Lettuce,,Survival Garden,Greens,,,,,,Green,Part Shade,Direct,55,8,0.125,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Great Lakes Mesa Lettuce,,Lehman's,Greens,,,,,,Green,Part Shade,Direct,80,8,0.125,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Oakleaf Lettuce,,Survival Garden,Greens,,,,,,Green,Part Shade,Direct,50,8,0.125,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Sorrel,,Survival Garden,Greens,,,,,,Green,Part Shade,Direct,50,12,0.25,Heirloom,Perennial,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Matador Spinach,,Garden Pack,Greens,,,,,,Green,Part Shade,Direct,42,4,0.5,Heirloom,Cool,Feb 1 - Apr 15,Aug 15 - Oct 1,High
+Bloomsdale Spinach,,Lehman's,Greens,,,,,,Green,Part Shade,Direct,48,4,0.5,Heirloom,Cool,Feb 1 - Apr 15,Aug 15 - Oct 1,High
+Bloomsdale Spinach,,Survival Garden,Greens,,,,,,Green,Part Shade,Direct,48,4,0.5,Heirloom,Cool,Feb 1 - Apr 15,Aug 15 - Oct 1,High
+Fordhook Swiss Chard,,Lehman's,Greens,,,,,,Green,Full Sun,Direct,50,6,0.5,Heirloom,Cool,Feb 15 - May 1,Aug 1 - Sep 15,High
+Fordhook Swiss Chard,,Survival Garden,Greens,,,,,,Green,Full Sun,Direct,50,6,0.5,Heirloom,Cool,Feb 15 - May 1,Aug 1 - Sep 15,High
+Watercress,,Survival Garden,Greens,,,,,,Green,Part Shade,Direct,50,6,0.25,Heirloom,Cool,Feb 15 - Apr 1,Aug 15 - Oct 1,High
+Georgia Southern Collards,,Baker Creek,Greens,,,,,,Green,Full Sun,Transplant,60,18,0.5,Heirloom,Cool,Feb 15 - Mar 31,Aug 1 - Sep 15,High
+Chantenay Red Core Carrot,,Lehman's,Veggies: C,,,,,,Root Veg,Full Sun,Direct,65,3,0.25,Heirloom,Cool,Feb 15 - Apr 30,Jul 15 - Aug 31,High
+Tendersweet Carrot,,Lehman's,Veggies: C,,,,,,Root Veg,Full Sun,Direct,75,3,0.25,Heirloom,Cool,Feb 15 - Apr 30,Jul 15 - Aug 31,High
+Nantes Carrot,,Garden Pack,Veggies: C,,,,,,Root Veg,Full Sun,Direct,68,3,0.25,Heirloom,Cool,Feb 15 - Apr 30,Jul 15 - Aug 31,High
+Danvers 126 Half Long Carrot,,Baker Creek,Veggies: C,,,,,,Root Veg,Full Sun,Direct,65,3,0.25,Heirloom,Cool,Feb 15 - Apr 30,Jul 15 - Aug 31,High
+Scarlet Nantes Carrot,,Survival Garden,Veggies: C,,,,,,Root Veg,Full Sun,Direct,68,3,0.25,Heirloom,Cool,Feb 15 - Apr 30,Jul 15 - Aug 31,High
+Plein blanc pascal Celery,,Garden Pack,Veggies: C,,,,,,Veggie,Part Shade,Transplant,90,8,0.125,Heirloom,Cool,Mar 1 - Apr 1,Jul 1 - Aug 1,High
+Chinese Pink Celery,,Baker Creek,Veggies: C,,,,,,Veggie,Part Shade,Transplant,80,8,0.125,Heirloom,Cool,Mar 1 - Apr 1,Jul 1 - Aug 1,High
+Purple of Sicily Cauliflower,,Baker Creek,Veggies: C,,,,,,Brassica,Full Sun,Direct,55,6,0.5,Heirloom,Cool,Feb 15 - Apr 15,Aug 1 - Sep 15,High
+Romanesco Italia Cauliflower,,Baker Creek,Veggies: C,,,,,,Brassica,Full Sun,Transplant,75,18,0.5,Heirloom,Cool,Feb 15 - Mar 15,Aug 1 - Sep 1,High
+Snowball Cauliflower,,Lehman's,Veggies: C,,,,,,Brassica,Full Sun,Transplant,68,18,0.5,Heirloom,Cool,Feb 15 - Mar 15,Aug 1 - Sep 1,High
+Mexican Sour Gherkin Cucumber,,Park Seed,Veggies: C,,,,,,Cucumber,Full Sun,Direct,70,12,0.5,Heirloom,Warm,Apr 15 - Jun 15,Jul 15 - Aug 15,High
+Homemade Pickle Cucumber,,Lehman's,Veggies: C,,,,,,Cucumber,Full Sun,Direct,55,12,0.5,Heirloom,Warm,Apr 15 - Jun 15,Jul 15 - Aug 15,High
+Wisconsin Cucumber,,Garden Pack,Veggies: C,,,,,,Cucumber,Full Sun,Direct,55,12,0.5,Heirloom,Warm,Apr 15 - Jun 15,Jul 15 - Aug 15,High
+Cornichon de Paris Cucumber,,Garden Pack,Veggies: C,,,,,,Cucumber,Full Sun,Direct,55,12,0.5,Heirloom,Warm,Apr 15 - Jun 15,Jul 15 - Aug 15,High
+Richmond Green Apple Cucumber,,Baker Creek,Veggies: C,,,,,,Cucumber,Full Sun,Direct,65,12,0.5,Heirloom,Warm,Apr 15 - Jun 15,Jul 15 - Aug 15,High
+Boston Pickling Cucumber,,Baker Creek,Veggies: C,,,,,,Cucumber,Full Sun,Direct,55,12,0.5,Heirloom,Warm,Apr 15 - Jun 15,Jul 15 - Aug 15,High
+Lemon Cuke Cucumber,,Baker Creek,Veggies: C,,,,,,Cucumber,Full Sun,Direct,65,12,0.5,Heirloom,Warm,Apr 15 - Jun 15,Jul 15 - Aug 15,High
+Straight Eight Cucumber,,Lehman's,Veggies: C,,,,,,Cucumber,Full Sun,Direct,58,12,0.5,Heirloom,Warm,Apr 15 - Jun 15,Jul 15 - Aug 15,High
+Purple Top,,Lehman's,Misc,,,,,,Root Veg,Full Sun,Direct,55,6,0.5,Heirloom,Cool,Feb 15 - Apr 1,Aug 1 - Sep 15,High
+Clemson Spineless Okra,,Lehman's,Misc,,,,,,Veggie,Full Sun,Direct,55,12,1,Heirloom,Warm,Apr 15 - Jun 15,N/A,High
+Hollow Crown Parsnip,,Lehman's,Misc,,,,,,Root Veg,Full Sun,Direct,120,4,0.5,Heirloom,Cool,Mar 1 - Apr 15,Jul 1 - Aug 1,High
+Hopi Black Dye Sunflower,,Baker Creek,Misc,,,,,,Flower,Full Sun,Direct,100,18,0.5,Heirloom,Annual,Apr 1 - May 31,N/A,High
+Henry Wilde Sunflower,,Baker Creek,Misc,,,,,,Flower,Full Sun,Direct,80,18,0.5,Heirloom,Annual,Apr 1 - May 31,N/A,High
+Connover's Collossal Asparagus,,Baker Creek,Misc,,,,,,Veggie,Full Sun,Transplant,730,18,6,Heirloom,Perennial,Mar 1 - Apr 15,N/A,High
+Victoria Rhubarb,,Baker Creek,Misc,,,,,,Veggie,Full Sun,Transplant,365,36,2,Heirloom,Perennial,Mar 1 - Apr 15,N/A,High
+Punk Beauty Amaranth,,Baker Creek,Misc,,,,,,Grain,Full Sun,Direct,100,18,0.25,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Black Goji Berry,,Baker Creek,Misc,,,,,,Shrub,Full Sun,Transplant,180,36,0.125,Heirloom,Perennial,Apr 1 - May 15,N/A,High
+Scarlet Goji Berry,,Baker Creek,Misc,,,,,,Shrub,Full Sun,Transplant,180,36,0.125,Heirloom,Perennial,Apr 1 - May 15,N/A,High
+Green Purple Imperial Star Artichoke,,Park Seed,Misc,,,,,,Veggie,Full Sun,Transplant,150,48,0.5,Heirloom,Perennial,Mar 1 - Apr 15,N/A,High
+Imperial Star Artichoke,,Park Seed,Misc,,,,,,Veggie,Full Sun,Transplant,150,48,0.5,Hybrid,Annual,Mar 1 - Apr 15,N/A,High
+Reid's Yellow Dent Corn,,Lehman's,Corn,,,,,,Corn,Full Sun,Direct,110,12,1,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Golden Bantam Sweet Corn,,Garden Pack,Corn,,,,,,Corn,Full Sun,Direct,78,12,1,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Lady Finger Popcorn,,Lehman's,Corn,,,,,,Corn,Full Sun,Direct,105,12,1,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Golden Bantam 8 Row Corn,,Lehman's,Corn,,,,,,Corn,Full Sun,Direct,78,12,1,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Bloody Butcher Corn,,Lehman's,Corn,,,,,,Corn,Full Sun,Direct,110,12,1,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Kiku Chrysanthemum Melon,,Baker Creek,Melon,,,,,,Melon,Full Sun,Direct,75,36,0.5,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Golden Crispy Melon,,Baker Creek,Melon,,,,,,Melon,Full Sun,Direct,75,36,0.5,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Hearts of Gold Muskmelon,,Lehman's,Melon,,,,,,Melon,Full Sun,Direct,85,36,0.5,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Honeydew Muskmelon,,Lehman's,Melon,,,,,,Melon,Full Sun,Direct,110,48,0.5,Heirloom,Warm,Apr 15 - May 15,N/A,High
+Honey Rock Muskmelon,,Lehman's,Melon,,,,,,Melon,Full Sun,Direct,80,36,0.5,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Hale's Best Melon,,Survival Garden,Melon,,,,,,Melon,Full Sun,Direct,85,36,0.5,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Crimson Sweet Watermelon,,Lehman's,Melon,,,,,,Melon,Full Sun,Direct,85,48,0.5,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Sugar Baby Watermelon,,Lehman's,Melon,,,,,,Melon,Full Sun,Direct,75,36,0.5,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Sugar Baby Watermelon,,Survival Garden,Melon,,,,,,Melon,Full Sun,Direct,75,36,0.5,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Japanese Tiger Melon,,Baker Creek,Melon,,,,,,Melon,Full Sun,Direct,80,36,0.5,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Golden Jenny Melon,,Baker Creek,Melon,,,,,,Melon,Full Sun,Direct,80,36,0.5,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Cherry Belle Radish,,Lehman's,Pumpkin Eggplant Radish,,,,,,Root Veg,Full Sun,Direct,22,2,0.5,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+French Breakfast Radish,,Lehman's,Pumpkin Eggplant Radish,,,,,,Root Veg,Full Sun,Direct,23,2,0.5,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Saxa 2 Radish,,Garden Pack,Pumpkin Eggplant Radish,,,,,,Root Veg,Full Sun,Direct,20,2,0.5,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+French Breakfast Radish,,Garden Pack,Pumpkin Eggplant Radish,,,,,,Root Veg,Full Sun,Direct,23,2,0.5,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Black Beauty Eggplant,,Lehman's,Pumpkin Eggplant Radish,,,,,,Eggplant,Full Sun,Transplant,74,24,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Long Purple Eggplant,,Garden Pack,Pumpkin Eggplant Radish,,,,,,Eggplant,Full Sun,Transplant,75,24,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Chinese String Eggplant,,Baker Creek,Pumpkin Eggplant Radish,,,,,,Eggplant,Full Sun,Transplant,65,24,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Long Eggplant,,Survival Garden,Pumpkin Eggplant Radish,,,,,,Eggplant,Full Sun,Transplant,75,24,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Long Island Cheese Pumpkin,,Lehman's,Pumpkin Eggplant Radish,,,,,,Squash,Full Sun,Direct,105,72,1,Heirloom,Warm,Apr 15 - May 15,N/A,High
+Big Max Pumpkin,,Garden Pack,Pumpkin Eggplant Radish,,,,,,Squash,Full Sun,Direct,100,72,1,Heirloom,Warm,Apr 15 - May 15,N/A,High
+Small Sugar Pie Pumpkin,,Lehman's,Pumpkin Eggplant Radish,,,,,,Squash,Full Sun,Direct,100,48,1,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Warrior Onion,,Park Seed,Onions & Peppers,,,,,,Onion,Full Sun,Transplant,110,4,0.5,Heirloom,Cool,Feb 15 - Mar 31,N/A,High
+De Brunswick Onion,,Garden Pack,Onions & Peppers,,,,,,Onion,Full Sun,Transplant,100,4,0.5,Heirloom,Cool,Feb 15 - Mar 31,Sep 1 - Oct 15,High
+Akatama Salad Red Onion,,Baker Creek,Onions & Peppers,,,,,,Onion,Full Sun,Transplant,100,4,0.5,Heirloom,Cool,Feb 15 - Mar 31,Sep 1 - Oct 1,High
+Parade Green Onion,,Park Seed,Onions & Peppers,,,,,,Onion,Full Sun,Direct,65,1,0.5,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Yellow Sweet Spanish Onion,,Lehman's,Onions & Peppers,,,,,,Onion,Full Sun,Transplant,110,4,0.5,Heirloom,Cool,Feb 15 - Mar 31,N/A,High
+White Creole Onion,,Baker Creek,Onions & Peppers,,,,,,Onion,Full Sun,Transplant,175,4,0.5,Heirloom,Cool,Feb 15 - Mar 15,N/A,High
+Autumn Giant Leek,,Garden Pack,Onions & Peppers,,,,,,Onion,Full Sun,Transplant,130,6,0.5,Heirloom,Cool,Feb 15 - Mar 31,N/A,High
+Sweet Banana Pepper,,Lehman's,Onions & Peppers,,,,,,Pepper,Full Sun,Transplant,72,18,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Jalapeno Pepper,,Lehman's,Onions & Peppers,,,,,,Pepper,Full Sun,Transplant,75,18,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+California Wonder Pepper,,Lehman's,Onions & Peppers,,,,,,Pepper,Full Sun,Transplant,75,18,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Cayenne Long Thin Pepper,,Lehman's,Onions & Peppers,,,,,,Pepper,Full Sun,Transplant,75,18,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Hungarian Yellow Wax Hot Pepper,,Garden Pack,Onions & Peppers,,,,,,Pepper,Full Sun,Transplant,70,18,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Red Sweet California Wonder Pepper,,Garden Pack,Onions & Peppers,,,,,,Pepper,Full Sun,Transplant,75,18,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Poblano Pepper,,Baker Creek,Onions & Peppers,,,,,,Pepper,Full Sun,Transplant,75,18,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Orange Bell Pepper,,Baker Creek,Onions & Peppers,,,,,,Pepper,Full Sun,Transplant,75,18,0.25,Hybrid,Warm,Apr 15 - May 31,N/A,High
+Bullnose Pepper,,Baker Creek,Onions & Peppers,,,,,,Pepper,Full Sun,Transplant,75,18,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Cayenne Long Thin Pepper,,Baker Creek,Onions & Peppers,,,,,,Pepper,Full Sun,Transplant,75,18,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+King of the North Pepper,,Baker Creek,Onions & Peppers,,,,,,Pepper,Full Sun,Transplant,70,18,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Marconi Red Pepper,,Lehman's,Onions & Peppers,,,,,,Pepper,Full Sun,Transplant,80,18,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Rainbow Bell Pepper,,Survival Garden,Onions & Peppers,,,,,,Pepper,Full Sun,Transplant,75,18,0.25,Hybrid,Warm,Apr 15 - May 31,N/A,High
+Leutschauer Paprika Pepper,,Baker Creek,Onions & Peppers,,,,,,Pepper,Full Sun,Transplant,75,18,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Arugula,Microgreens,Survival Garden,Microgreens,,,,,,Green,Part Shade,Direct,40,4,0.25,Heirloom,Cool,Feb 1 - Apr 15,Aug 15 - Oct 15,High
+Alfalfa,Microgreens,Survival Garden,Microgreens,,,,,,Microgreen,Full Sun,Direct,7-14,1,0.25,Unknown,Cool,Mar 1 - May 1,Sep 1 - Oct 15,High
+Buckwheat,Microgreens,Survival Garden,Microgreens,,,,,,Grain,Full Sun,Direct,70,6,1,Heirloom,Warm,Apr 15 - Jun 15,Aug 1 - Sep 1,High
+Beet,Microgreens,Survival Garden,Microgreens,,,,,,Root Veg,Full Sun,Direct,55,4,0.5,Heirloom,Cool,Feb 15 - Apr 30,Aug 1 - Sep 15,High
+Cabbage,Microgreens,Survival Garden,Microgreens,,,,,,Brassica,Full Sun,Transplant,65,18,0.5,Heirloom,Cool,Feb 15 - Mar 31,Aug 1 - Sep 1,High
+Broccoli,Microgreens,Survival Garden,Microgreens,,,,,,Brassica,Full Sun,Transplant,60,18,0.5,Heirloom,Cool,Feb 15 - Mar 31,Aug 1 - Sep 1,High
+Kale,Microgreens,Survival Garden,Microgreens,,,,,,Green,Full Sun,Transplant,55,18,0.5,Heirloom,Cool,Feb 15 - Mar 31,Aug 1 - Sep 15,High
+Sunflower,Microgreens,Survival Garden,Microgreens,,,,,,Flower,Full Sun,Direct,80,18,0.5,Heirloom,Annual,Apr 1 - May 31,N/A,High
+Peas,Microgreens,Survival Garden,Microgreens,,,,,,Pea,Full Sun,Direct,65,3,1,Heirloom,Cool,Feb 1 - Mar 31,Aug 15 - Sep 15,High
+Radish,Microgreens,Survival Garden,Microgreens,,,,,,Root Veg,Full Sun,Direct,25,2,0.5,Heirloom,Cool,Feb 15 - Apr 30,Aug 15 - Oct 1,High
+Marigold Crackerjack Mix ,,Garden Pack,Flowers,,,,,,Flower,Full Sun,Direct,55,12,0.25,Heirloom,Annual,Apr 1 - May 31,N/A,High
+Carnation Grenadin Mix ,,Garden Pack,Flowers,,,,,,Flower,Full Sun,Transplant,120,12,0.25,Heirloom,Annual,Mar 1 - Apr 15,N/A,High
+Petit Orange Marigold,,Garden Pack,Flowers,,,,,,Flower,Full Sun,Direct,50,8,0.25,Heirloom,Annual,Apr 1 - May 31,N/A,High
+Double Ball's Orange Marigold,,Garden Pack,Flowers,,,,,,Flower,Full Sun,Direct,50,12,0.25,Heirloom,Annual,Apr 1 - May 31,N/A,High
+Double Mixed Poppy,,Garden Pack,Flowers,,,,,,Flower,Full Sun,Direct,90,8,0.125,Heirloom,Annual,Feb 15 - Apr 15,Sep 1 - Nov 1,High
+Garden Rocket,,Garden Pack,Flowers,,,,,,Green,Part Shade,Direct,40,4,0.25,Heirloom,Cool,Feb 1 - Apr 15,Aug 15 - Oct 15,High
+Sungold Sunflower,,Garden Pack,Flowers,,,,,,Flower,Full Sun,Direct,75,18,0.5,Hybrid,Annual,Apr 1 - May 31,N/A,High
+Swiss Giants Mix Viola,,Garden Pack,Flowers,,,,,,Flower,Part Shade,Transplant,60,8,0.125,Heirloom,Annual,Feb 1 - Apr 1,Aug 15 - Oct 1,High
+Double Gleam Nasturtium ,,Garden Pack,Flowers,,,,,,Flower,Full Sun,Direct,55,12,0.5,Heirloom,Annual,Mar 15 - May 15,N/A,High
+Nasturtium,,Garden Pack,Flowers,,,,,,Flower,Full Sun,Direct,55,12,0.5,Heirloom,Annual,Mar 15 - May 15,N/A,High
+Pollinator Mix,,Survival Garden,Flowers,,,,,,Flower,Full Sun,Direct,60,6,0.25,Heirloom,Annual,Mar 1 - May 1,Sep 1 - Oct 1,High
+Pollinator Mix,,Survival Garden,Flowers,,,,,,Flower,Full Sun,Direct,60,6,0.25,Heirloom,Annual,Mar 1 - May 1,Sep 1 - Oct 1,High
+Pollinator Mix,,Survival Garden,Flowers,,,,,,Flower,Full Sun,Direct,60,6,0.25,Heirloom,Annual,Mar 1 - May 1,Sep 1 - Oct 1,High
+California Poppy,,Survival Garden,Flowers,,,,,,Flower,Full Sun,Direct,90,8,0.125,Heirloom,Annual,Feb 15 - Apr 15,Sep 1 - Nov 1,High
+Petunia Dwarf Mix ,,Survival Garden,Flowers,,,,,,Flower,Full Sun,Transplant,70,12,0.125,Hybrid,Annual,Mar 15 - May 1,N/A,High
+Crackerjack Marigold,,Survival Garden,Flowers,,,,,,Flower,Full Sun,Direct,55,12,0.25,Heirloom,Annual,Apr 1 - May 31,N/A,High
+Persian Carpet Zinnia,,Baker Creek,Flowers,,,,,,Flower,Full Sun,Direct,60,12,0.25,Heirloom,Annual,Apr 1 - May 31,N/A,High
+Lemon Bergamot,,Strictly Medicinal,Flowers,,,,,,Herb,Full Sun,Direct,75,12,0.125,Heirloom,Annual,Mar 1 - May 1,N/A,High
+True Comfrey,,Strictly Medicinal,Flowers,,,,,,Med Herb,Part Shade,Direct,365,24,0.5,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Hyssop,,Strictly Medicinal,Flowers,,,,,,Herb,Full Sun,Direct,90,12,0.25,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Greek Mullein,,Strictly Medicinal,Flowers,,,,,,Med Herb,Full Sun,Direct,365,24,0.125,Heirloom,Biennial,Mar 1 - May 1,Sep 1 - Oct 1,High
+Common Oregano,,Strictly Medicinal,Flowers,,,,,,Herb,Full Sun,Direct,80,12,0.125,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Pleurisy Root,,Strictly Medicinal,Flowers,,,,,,Med Herb,Full Sun,Direct,365,18,0.25,Heirloom,Perennial,Apr 1 - May 15,N/A,High
+Scarlet sage,,Strictly Medicinal,Flowers,,,,,,Med Herb,Full Sun,Transplant,90,18,0.125,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Temperate Tulsi,,Strictly Medicinal,Flowers,,,,,,Med Herb,Full Sun,Transplant,65,18,0.25,Heirloom,Annual,Apr 15 - Jun 1,N/A,High
+Mary Washington asparagus,,True Leaf Market,Box 1,,,,,,Veggie,Full Sun,Transplant,730,18,6,Heirloom,Perennial,Mar 1 - Apr 15,N/A,High
+Sungold Hybrid Tomato,,True Leaf Market,Box 1,,,,,,Tomato,Full Sun,Transplant,57,36,0.25,Hybrid,Warm,Apr 15 - May 31,N/A,High
+Large American Flag Leek,,True Leaf Market,Box 1,,,,,,Onion,Full Sun,Transplant,130,6,0.5,Heirloom,Cool,Feb 15 - Mar 31,N/A,High
+Golden Self Blanching Celery,,True Leaf Market,Box 1,,,,,,Veggie,Part Shade,Transplant,85,8,0.125,Heirloom,Cool,Mar 1 - Apr 1,Jul 1 - Aug 1,High
+Utah Celery 52,,True Leaf Market,Box 1,,,,,,Veggie,Part Shade,Transplant,98,8,0.125,Heirloom,Cool,Mar 1 - Apr 1,Jul 1 - Aug 1,High
+Baxter's Early Bush Cherry Tomato,,True Leaf Market,Box 1,,,,,,Tomato,Full Sun,Transplant,65,24,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Rosemary,,True Leaf Market,Box 1,,,,,,Herb,Full Sun,Transplant,90,24,0.25,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Grande Rio Verde Tomatillo,,True Leaf Market,Box 1,,,,,,Tomato,Full Sun,Transplant,75,36,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Dwarf Alaska Gold Nasturtium,,True Leaf Market,Box 1,,,,,,Flower,Full Sun,Direct,55,12,0.5,Heirloom,Annual,Mar 15 - May 15,N/A,High
+Pineapple Tomatillo,,True Leaf Market,Box 1,,,,,,Tomato,Full Sun,Transplant,75,36,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Mignonette Strawberry,,True Leaf Market,Box 1,,,,,,Veggie,Full Sun,Transplant,90,12,0.125,Heirloom,Perennial,Mar 1 - Apr 30,N/A,High
+Stevia,,True Leaf Market,Box 1,,,,,,Herb,Full Sun,Transplant,90,18,0.125,Heirloom,Perennial,Apr 15 - May 31,N/A,High
+Bouquet Dill,,True Leaf Market,Box 1,,,,,,Herb,Full Sun,Direct,40,8,0.25,Heirloom,Cool,Mar 1 - May 1,Aug 1 - Sep 15,High
+Red Head Grain Quinoa,,True Leaf Market,Box 1,,,,,,Grain,Full Sun,Direct,90,12,0.5,Heirloom,Cool,Mar 15 - Apr 15,Aug 1 - Sep 1,High
+Green Vines Supreme Malabar Spinach,,True Leaf Market,Box 1,,,,,,Green,Full Sun,Direct,70,12,0.5,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Toma Verde Tomatillo,,True Leaf Market,Box 1,,,,,,Tomato,Full Sun,Transplant,65,36,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Red Malabar Spinach,,True Leaf Market,Box 1,,,,,,Green,Full Sun,Direct,70,12,0.5,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Empress of India Nasturtium,,True Leaf Market,Box 1,,,,,,Flower,Full Sun,Direct,55,12,0.5,Heirloom,Annual,Mar 15 - May 15,N/A,High
+Polish Amaranth,,True Leaf Market,Box 1,,,,,,Grain,Full Sun,Direct,100,18,0.25,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Table Queen Acorn Winter Squash,,True Leaf Market,Box 1,,,,,,Squash,Full Sun,Direct,85,36,1,Heirloom,Warm,Apr 15 - Jun 1,N/A,High
+Victoria Rhubarb,,True Leaf Market,Box 1,,,,,,Veggie,Full Sun,Transplant,365,36,2,Heirloom,Perennial,Mar 1 - Apr 15,N/A,High
+Red Garnet Sprouting Amaranth,,True Leaf Market,Box 1,,,,,,Microgreen,Full Sun,Direct,7,1,0.125,Heirloom,Warm,Apr 1 - Jun 1,N/A,High
+Red Noodle Yard Long Bean,,True Leaf Market,Box 1,,,,,,Pepper,Full Sun,Transplant,75,18,0.25,Heirloom,Warm,Apr 15 - May 31,N/A,High
+Oriental Yard Long Pole Bean,,True Leaf Market,Box 1,,,,,,Bean,Full Sun,Direct,75,6,1,Heirloom,Warm,Apr 15 - Jun 15,N/A,High
+Dutch Broad Leaved Corn Salad Mache,,True Leaf Market,Box 1,,,,,,Green,Part Shade,Direct,45,4,0.25,Heirloom,Cool,Feb 1 - Mar 31,Sep 1 - Oct 15,High
+Spearmint,,True Leaf Market,Box 1,,,,,,Herb,Part Shade,Transplant,90,18,0.25,Heirloom,Perennial,Mar 1 - May 1,N/A,High
+Wildflower mix,Bee friendly,True Leaf Market,Box 1,,,,,,Flower,Full Sun,Direct,60,6,0.25,Heirloom,Annual,Mar 1 - May 1,Sep 1 - Oct 1,High
+Sprouting seeds 5 part salad mix,,True Leaf Market,Box 1,,,,,,Microgreen,Full Sun,Direct,7,1,0.25,Unknown,Cool,Year-round indoors,Year-round indoors,High
+Red Sprouting Clover,,True Leaf Market,Box 1,,,,,,Med Herb,Full Sun,Direct,7,6,0.25,Heirloom,Perennial,Mar 1 - May 1,Aug 15 - Oct 1,High
+Sprouting seeds bean salad mix,,True Leaf Market,Box 1,,,,,,Microgreen,Full Sun,Direct,7,1,0.25,Unknown,Cool,Year-round indoors,Year-round indoors,High
+Sprouting seeds 3 part salad mix,,True Leaf Market,Box 1,,,,,,Microgreen,Full Sun,Direct,7,1,0.25,Unknown,Cool,Year-round indoors,Year-round indoors,High
+Green Unhulled Sprouting Lentil,,True Leaf Market,Box 1,,,,,,Microgreen,Full Sun,Direct,7,1,0.5,Heirloom,Cool,Year-round indoors,Year-round indoors,High
+Sprouting alfalfa,,True Leaf Market,Box 1,,,,,,Microgreen,Full Sun,Direct,7,1,0.25,Unknown,Cool,Year-round indoors,Year-round indoors,High
+Sprouting buckwheat,,True Leaf Market,Box 1,,,,,,Microgreen,Full Sun,Direct,7,1,0.25,Unknown,Cool,Year-round indoors,Year-round indoors,High
+Sprouting mung bean,,True Leaf Market,Box 1,,,,,,Microgreen,Full Sun,Direct,5,1,0.25,Unknown,Warm,Year-round indoors,Year-round indoors,High
+Sprouting daikon radish,,True Leaf Market,Box 1,,,,,,Microgreen,Full Sun,Direct,7,1,0.25,Unknown,Cool,Year-round indoors,Year-round indoors,High
+Di Cicco Sprouting Broccoli,,True Leaf Market,Box 1,,,,,,Microgreen,Full Sun,Direct,5-14,1,0.25,Unknown,Cool,Year-round indoors,Year-round indoors,High
+Sunset goldilocks Amaranth,,Adaptive Seeds,Box 1,,,,,,Flower,Full Sun,Direct,75,12,0.25,Heirloom,Annual,Apr 1 - May 31,N/A,High
+Dave 407 quinoa,,Adaptive Seeds,Box 1,,,,,,Grain,Full Sun,Direct,90,12,0.5,Heirloom,Cool,Mar 15 - Apr 15,Aug 1 - Sep 1,High
+Apellewa quinoa,,Adaptive Seeds,Box 1,,,,,,Grain,Full Sun,Direct,90,12,0.5,Heirloom,Cool,Mar 15 - Apr 15,Aug 1 - Sep 1,High
+Fockinghauser oats,,Adaptive Seeds,Box 1,,,,,,Grain,Full Sun,Direct,90,6,1,Heirloom,Cool,Feb 15 - Mar 31,Sep 1 - Oct 1,High
